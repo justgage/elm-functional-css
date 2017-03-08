@@ -1,0 +1,224 @@
+var _user$project$Bass$position = {ctor: '[]'};
+var _user$project$Bass$margin = {ctor: '[]'};
+var _user$project$Bass$layout = {ctor: '[]'};
+var _user$project$Bass$hide = {ctor: '[]'};
+var _user$project$Bass$grid = {ctor: '[]'};
+var _user$project$Bass$flexbox = {ctor: '[]'};
+var _user$project$Bass$border = {ctor: '[]'};
+var _user$project$Bass$align = {ctor: '[]'};
+var _user$project$Bass$H6 = {ctor: 'H6'};
+var _user$project$Bass$H5 = {ctor: 'H5'};
+var _user$project$Bass$H4 = {ctor: 'H4'};
+var _user$project$Bass$H3 = {ctor: 'H3'};
+var _user$project$Bass$H2 = {ctor: 'H2'};
+var _user$project$Bass$H1 = {ctor: 'H1'};
+var _user$project$Bass$typeScale = {
+	ctor: '::',
+	_0: A2(
+		_rtfeldman$elm_css$Css$class,
+		_user$project$Bass$H1,
+		{
+			ctor: '::',
+			_0: _rtfeldman$elm_css$Css$fontSize(
+				_rtfeldman$elm_css$Css$rem(2.0)),
+			_1: {ctor: '[]'}
+		}),
+	_1: {
+		ctor: '::',
+		_0: A2(
+			_rtfeldman$elm_css$Css$class,
+			_user$project$Bass$H2,
+			{
+				ctor: '::',
+				_0: _rtfeldman$elm_css$Css$fontSize(
+					_rtfeldman$elm_css$Css$rem(1.5)),
+				_1: {ctor: '[]'}
+			}),
+		_1: {
+			ctor: '::',
+			_0: A2(
+				_rtfeldman$elm_css$Css$class,
+				_user$project$Bass$H3,
+				{
+					ctor: '::',
+					_0: _rtfeldman$elm_css$Css$fontSize(
+						_rtfeldman$elm_css$Css$rem(1.25)),
+					_1: {ctor: '[]'}
+				}),
+			_1: {
+				ctor: '::',
+				_0: A2(
+					_rtfeldman$elm_css$Css$class,
+					_user$project$Bass$H4,
+					{
+						ctor: '::',
+						_0: _rtfeldman$elm_css$Css$fontSize(
+							_rtfeldman$elm_css$Css$rem(1.0)),
+						_1: {ctor: '[]'}
+					}),
+				_1: {
+					ctor: '::',
+					_0: A2(
+						_rtfeldman$elm_css$Css$class,
+						_user$project$Bass$H5,
+						{
+							ctor: '::',
+							_0: _rtfeldman$elm_css$Css$fontSize(
+								_rtfeldman$elm_css$Css$rem(0.875)),
+							_1: {ctor: '[]'}
+						}),
+					_1: {
+						ctor: '::',
+						_0: A2(
+							_rtfeldman$elm_css$Css$class,
+							_user$project$Bass$H6,
+							{
+								ctor: '::',
+								_0: _rtfeldman$elm_css$Css$fontSize(
+									_rtfeldman$elm_css$Css$rem(0.75)),
+								_1: {ctor: '[]'}
+							}),
+						_1: {ctor: '[]'}
+					}
+				}
+			}
+		}
+	}
+};
+var _user$project$Bass$ListReset = {ctor: 'ListReset'};
+var _user$project$Bass$Truncate = {ctor: 'Truncate'};
+var _user$project$Bass$Underline = {ctor: 'Underline'};
+var _user$project$Bass$ListStyleNone = {ctor: 'ListStyleNone'};
+var _user$project$Bass$LineHeight4 = {ctor: 'LineHeight4'};
+var _user$project$Bass$LineHeight3 = {ctor: 'LineHeight3'};
+var _user$project$Bass$LineHeight2 = {ctor: 'LineHeight2'};
+var _user$project$Bass$LineHeight1 = {ctor: 'LineHeight1'};
+var _user$project$Bass$BreakWord = {ctor: 'BreakWord'};
+var _user$project$Bass$NoWrap = {ctor: 'NoWrap'};
+var _user$project$Bass$Justify = {ctor: 'Justify'};
+var _user$project$Bass$RightAlign = {ctor: 'RightAlign'};
+var _user$project$Bass$Center = {ctor: 'Center'};
+var _user$project$Bass$LeftAlign = {ctor: 'LeftAlign'};
+var _user$project$Bass$Caps = {ctor: 'Caps'};
+var _user$project$Bass$Italic = {ctor: 'Italic'};
+var _user$project$Bass$Regular = {ctor: 'Regular'};
+var _user$project$Bass$Bold = {ctor: 'Bold'};
+var _user$project$Bass$typeography = {
+	ctor: '::',
+	_0: A2(
+		_rtfeldman$elm_css$Css$class,
+		_user$project$Bass$Bold,
+		{
+			ctor: '::',
+			_0: _rtfeldman$elm_css$Css$fontWeight(_rtfeldman$elm_css$Css$bold),
+			_1: {ctor: '[]'}
+		}),
+	_1: {
+		ctor: '::',
+		_0: A2(
+			_rtfeldman$elm_css$Css$class,
+			_user$project$Bass$Regular,
+			{
+				ctor: '::',
+				_0: _rtfeldman$elm_css$Css$fontWeight(_rtfeldman$elm_css$Css$normal),
+				_1: {ctor: '[]'}
+			}),
+		_1: {
+			ctor: '::',
+			_0: A2(
+				_rtfeldman$elm_css$Css$class,
+				_user$project$Bass$Italic,
+				{
+					ctor: '::',
+					_0: _rtfeldman$elm_css$Css$fontStyle(_rtfeldman$elm_css$Css$italic),
+					_1: {ctor: '[]'}
+				}),
+			_1: {
+				ctor: '::',
+				_0: A2(
+					_rtfeldman$elm_css$Css$class,
+					_user$project$Bass$Caps,
+					{
+						ctor: '::',
+						_0: _rtfeldman$elm_css$Css$textTransform(_rtfeldman$elm_css$Css$uppercase),
+						_1: {
+							ctor: '::',
+							_0: _rtfeldman$elm_css$Css$letterSpacing(
+								_rtfeldman$elm_css$Css$em(0.2)),
+							_1: {ctor: '[]'}
+						}
+					}),
+				_1: {
+					ctor: '::',
+					_0: A2(
+						_rtfeldman$elm_css$Css$class,
+						_user$project$Bass$LeftAlign,
+						{
+							ctor: '::',
+							_0: _rtfeldman$elm_css$Css$textAlign(_rtfeldman$elm_css$Css$left),
+							_1: {ctor: '[]'}
+						}),
+					_1: {
+						ctor: '::',
+						_0: A2(
+							_rtfeldman$elm_css$Css$class,
+							_user$project$Bass$RightAlign,
+							{
+								ctor: '::',
+								_0: _rtfeldman$elm_css$Css$textAlign(_rtfeldman$elm_css$Css$right),
+								_1: {ctor: '[]'}
+							}),
+						_1: {
+							ctor: '::',
+							_0: A2(
+								_rtfeldman$elm_css$Css$class,
+								_user$project$Bass$Justify,
+								{
+									ctor: '::',
+									_0: _rtfeldman$elm_css$Css$textAlign(_rtfeldman$elm_css$Css$textJustify),
+									_1: {ctor: '[]'}
+								}),
+							_1: {
+								ctor: '::',
+								_0: A2(
+									_rtfeldman$elm_css$Css$class,
+									_user$project$Bass$NoWrap,
+									{
+										ctor: '::',
+										_0: _rtfeldman$elm_css$Css$whiteSpace(_rtfeldman$elm_css$Css$noWrap),
+										_1: {ctor: '[]'}
+									}),
+								_1: {
+									ctor: '::',
+									_0: A2(
+										_rtfeldman$elm_css$Css$class,
+										_user$project$Bass$BreakWord,
+										{
+											ctor: '::',
+											_0: _rtfeldman$elm_css$Css$overflowWrap(_rtfeldman$elm_css$Css$breakWord),
+											_1: {ctor: '[]'}
+										}),
+									_1: {ctor: '[]'}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+};
+var _user$project$Bass$css = _rtfeldman$elm_css$Css$stylesheet(
+	_elm_lang$core$List$concat(
+		{
+			ctor: '::',
+			_0: _user$project$Bass$typeScale,
+			_1: {
+				ctor: '::',
+				_0: _user$project$Bass$typeography,
+				_1: {ctor: '[]'}
+			}
+		}));
+var _user$project$Bass$TextDecorationNone = {ctor: 'TextDecorationNone'};
+var _user$project$Bass$FontSizeInherit = {ctor: 'FontSizeInherit'};
+var _user$project$Bass$FontFamilyInherit = {ctor: 'FontFamilyInherit'};

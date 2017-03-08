@@ -38,3 +38,23 @@
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
+
+.LeftAlign {
+    text-align: left;
+}
+
+.RightAlign {
+    text-align: right;
+}
+
+.Justify {
+    text-align: text-justify;
+}
+
+.NoWrap {
+    white-space: nowrap;
+}
+
+.BreakWord {
+    overflow-wrap: break-word;
+}
